@@ -1,6 +1,6 @@
 # Data-Visualization-using-R
 
-For IST 687: Introduction to Data Science coursework, I build multiple visualization graphs and plots to analyze the US Census and US Arrests rates. I have made use of the ggplot2 library in R programming.
+For IST 687: Introduction to Data Science course, I build multiple visualization graphs and plots to analyze the US Census and US Arrests rates. I have made use of the ggplot2 library in R programming.
 
 First, I merged both Census and US Arrest rate data sets. I build multiple histograms analyzing each variable in the data set. Then, I build boxplots for each variable and compared it with histograms to see which one gives more insights and a clear, easy to understand the plot. 
 
