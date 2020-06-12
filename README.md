@@ -7,5 +7,7 @@ First, I merged both Census and US Arrest rate data sets. I build multiple histo
 I also developed Bar charts and scatter plots to see which variable is important in our merged datasets. To plot the data on the US map, I made use of the ggmap library in R. I plotted multiple crime rates on US Maps.
 
 Library: **ggplot2, ggmap**
+
 Programming: **R**
+
 Visualizations: **Histograms, Boxplots, Bar Charts, Scatter Plots, Maps**
